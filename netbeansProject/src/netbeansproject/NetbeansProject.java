@@ -16,6 +16,12 @@ public class NetbeansProject {
      */
     public static void main(String[] args) {
         System.out.println("hola");
+        if(true){
+            System.out.println("Mienda");
+        }else{
+            System.out.println("caca");
+        }
+            
     }
     
 }
